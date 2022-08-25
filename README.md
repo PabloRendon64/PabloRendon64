@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Software developer
+- 🌱 I’m currently learning Data science
+- 👯 I’m looking to collaborate on healt/medical subjects
+- 💬 Ask me about java/angular
+- 📫 How to reach me: ing.pablo64@gmail.com
